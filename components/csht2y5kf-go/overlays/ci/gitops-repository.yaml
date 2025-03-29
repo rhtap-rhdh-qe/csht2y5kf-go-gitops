@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: csht2y5kf-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/csht2y5kf-go-gitops
